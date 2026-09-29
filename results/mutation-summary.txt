@@ -1,0 +1,6 @@
+Mutant Maven exit code: 1
+Restored Maven exit code: 0
+Mutation: score >= 90 -> score > 90
+Failed test: ninetyIsExactlyA
+Expected A, actual B
+Source restored after mutation: yes

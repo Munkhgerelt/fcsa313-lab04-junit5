@@ -1,0 +1,13 @@
+diff --git a/src/main/java/mn/edu/must/sqat/GradeCalculator.java b/src/main/java/mn/edu/must/sqat/GradeCalculator.java
+index 83dd091..3f2cf1f 100644
+--- a/src/main/java/mn/edu/must/sqat/GradeCalculator.java
++++ b/src/main/java/mn/edu/must/sqat/GradeCalculator.java
+@@ -5,7 +5,7 @@ public class GradeCalculator {
+ 
+     public String letterGrade(double score) {
+         validateScore("score", score, 100);
+-        if (score >= 90) {
++        if (score > 90) {
+             return "A";
+         }
+         if (score >= 80) {

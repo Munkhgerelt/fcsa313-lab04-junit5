@@ -5,3 +5,5 @@
 *.txt text eol=lf
 # Preserve Maven's raw log spacing as test evidence.
 results/*.txt -whitespace
+# Blank context lines are required in a unified diff.
+results/*.patch text eol=lf -whitespace

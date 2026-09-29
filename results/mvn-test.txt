@@ -18,8 +18,7 @@
 [INFO] skip non existing resourceDirectory C:\Users\Munkhgerelt\Desktop\VSC\School\F.CSA313\Lab4\lab04-junit\src\test\resources
 [INFO] 
 [INFO] --- compiler:3.8.0:testCompile (default-testCompile) @ lab04-junit ---
-[INFO] Changes detected - recompiling the module!
-[INFO] Compiling 1 source file to C:\Users\Munkhgerelt\Desktop\VSC\School\F.CSA313\Lab4\lab04-junit\target\test-classes
+[INFO] Nothing to compile - all classes are up to date
 [INFO] 
 [INFO] --- surefire:3.2.5:test (default-test) @ lab04-junit ---
 [INFO] Using auto detected provider org.apache.maven.surefire.junitplatform.JUnitPlatformProvider
@@ -28,7 +27,7 @@
 [INFO]  T E S T S
 [INFO] -------------------------------------------------------
 [INFO] Running mn.edu.must.sqat.GradeCalculatorTest
-[INFO] Tests run: 51, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.438 s -- in mn.edu.must.sqat.GradeCalculatorTest
+[INFO] Tests run: 51, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.313 s -- in mn.edu.must.sqat.GradeCalculatorTest
 [INFO] 
 [INFO] Results:
 [INFO] 
@@ -37,6 +36,6 @@
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  4.938 s
-[INFO] Finished at: 2026-09-29T18:32:04+08:00
+[INFO] Total time:  4.238 s
+[INFO] Finished at: 2026-09-29T18:32:55+08:00
 [INFO] ------------------------------------------------------------------------
