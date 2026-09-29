@@ -10,7 +10,8 @@
 [INFO] skip non existing resourceDirectory C:\Users\Munkhgerelt\Desktop\VSC\School\F.CSA313\Lab4\lab04-junit\src\main\resources
 [INFO] 
 [INFO] --- compiler:3.8.0:compile (default-compile) @ lab04-junit ---
-[INFO] Nothing to compile - all classes are up to date
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 1 source file to C:\Users\Munkhgerelt\Desktop\VSC\School\F.CSA313\Lab4\lab04-junit\target\classes
 [INFO] 
 [INFO] --- resources:3.0.2:testResources (default-testResources) @ lab04-junit ---
 [INFO] Using 'UTF-8' encoding to copy filtered resources.
@@ -27,7 +28,7 @@
 [INFO]  T E S T S
 [INFO] -------------------------------------------------------
 [INFO] Running mn.edu.must.sqat.GradeCalculatorTest
-[INFO] Tests run: 51, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.422 s -- in mn.edu.must.sqat.GradeCalculatorTest
+[INFO] Tests run: 51, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.438 s -- in mn.edu.must.sqat.GradeCalculatorTest
 [INFO] 
 [INFO] Results:
 [INFO] 
@@ -36,6 +37,6 @@
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time:  6.423 s
-[INFO] Finished at: 2026-09-29T18:30:54+08:00
+[INFO] Total time:  4.938 s
+[INFO] Finished at: 2026-09-29T18:32:04+08:00
 [INFO] ------------------------------------------------------------------------

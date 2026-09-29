@@ -3,3 +3,5 @@
 *.xml text eol=lf
 *.md text eol=lf
 *.txt text eol=lf
+# Preserve Maven's raw log spacing as test evidence.
+results/*.txt -whitespace
